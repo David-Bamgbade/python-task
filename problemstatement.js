@@ -1,8 +1,8 @@
 const prompt = require("prompt-sync")();
 
-let day = prompt("What day is today ");
+let day = prompt("What day is today");
 
-switch(day){   
+switch(day){
 	case "Monday":
 		console.log("Today is monday");
 		break;
