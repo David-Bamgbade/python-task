@@ -1,0 +1,2 @@
+string = "david"
+vowels("david")
